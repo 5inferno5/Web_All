@@ -1,0 +1,53 @@
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\Лаб_Святослава\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\Web_lab5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+D:\4 триместр\Web\ВТ\ЛР_Web_Резерв\somecopy_web8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
