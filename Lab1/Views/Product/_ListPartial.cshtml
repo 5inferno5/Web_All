@@ -1,0 +1,12 @@
+﻿@model ListViewModel<Dish>
+
+@foreach (var item in Model)
+{
+    <partial name="_listItemPartial" model="@item"/>
+}
+@*@{
+    ViewData["Title"] = "_ListPartial";
+}
+
+<h1>_ListPartial</h1>*@
+
